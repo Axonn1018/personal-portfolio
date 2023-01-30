@@ -1,0 +1,38 @@
+.green-bold {
+    color:#04AA6D;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.green-text {
+    color:#04AA6D;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.white-text {
+    font-size: 32px;
+    font-weight: bold;
+    color:#ffffff;
+}
+
+.container {
+    // padding-left: 75x;
+    // padding-right: 75px;
+    // padding-top: 75px;
+    // border-style: solid;
+    margin:auto;
+    padding: 75px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
