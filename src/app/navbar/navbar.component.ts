@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class NavbarComponent {
 
+  goExp() {
+    console.log("Logging clicking on the experience tab");
+  }
+
 }
