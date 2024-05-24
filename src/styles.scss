@@ -3,6 +3,11 @@
 /* Importing Bootstrap SCSS file. */
 @import 'bootstrap/scss/bootstrap';
 
+.container {
+    margin-top: 20px;
+    padding: 15px 15 px;
+}
+
 body {
     background-color: rgb(15,23,42);
     color:white;
