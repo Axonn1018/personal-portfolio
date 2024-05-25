@@ -12,8 +12,12 @@
 }
 
 /* Change the color of links on hover */
-.topnav a:hover,a:active,a:visited { //use visited property to color hyperlinks
+.topnav a:hover,a:active {
   background-color: #04aa6d;
+  color: white;
+}
+
+.topnav a:link, a:visited {
   color: white;
 }
 
